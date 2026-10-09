@@ -70,8 +70,8 @@ Built with cutting-edge web technologies, the page delivers a cinematic digital 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/uahadov/qizil-qaya-kimi-k26.git
-cd qizil-qaya-kimi-k26
+git clone https://github.com/uahadov/qizil-qaya-hall
+cd qizil-qaya-hall
 ```
 
 ### 2. Install dependencies
